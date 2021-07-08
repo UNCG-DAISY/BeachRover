@@ -1,6 +1,11 @@
 ---
 sidebar_position: 2
+id: Assembly
+title: Assembly of the Rover
+sidebar_label: Assembly
 ---
+
+
 # Assembly
 The Rover will consist of two main parts, the **RC Car/Chassis** and the
 **Pi, Navio2,** and **Sensors**. We will set these parts up separately then

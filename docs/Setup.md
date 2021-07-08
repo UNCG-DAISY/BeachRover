@@ -1,5 +1,8 @@
 ---
 sidebar_position: 3
+id: Setup
+title: Setup for the Project
+sidebar_label: Setup
 ---
 
 # Setup

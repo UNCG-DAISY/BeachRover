@@ -1,5 +1,8 @@
 ---
 sidebar_position: 1
+id: intro
+title: Intro to the Project
+sidebar_label: intro
 ---
 
 # Overview
