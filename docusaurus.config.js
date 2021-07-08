@@ -3,7 +3,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  
+
   title: 'Beach Rover Research Project',
   tagline: 'Contains the steps and processes we took to make a rover',
   url: 'https://uncg-daisy.github.io/BeachRover/',
@@ -80,16 +80,18 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
+          // It is recommended to set document id as docs home page (`docs/` path).
+          homePageId: 'indexDoc',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/UNCG-DAISY/BeachRover',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/UNCG-DAISY/BeachRover',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
