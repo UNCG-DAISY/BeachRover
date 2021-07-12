@@ -2,14 +2,14 @@
 <rss version="2.0">
     <channel>
         <title>Beach Rover Research Project Blog</title>
-        <link>https://uncg-daisy.github.io/BeachRover/BeachRover/blog</link>
+        <link>https://uncg-daisy.github.io/BeachRover/blog</link>
         <description>Beach Rover Research Project Blog</description>
         <lastBuildDate>Thu, 08 Jul 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[TEST]]></title>
-            <link>https://uncg-daisy.github.io/BeachRover/BeachRover/blog/2021/07/08/Test</link>
+            <link>https://uncg-daisy.github.io/BeachRover/blog/2021/07/08/Test</link>
             <guid>TEST</guid>
             <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Rover Blog test]]></description>
