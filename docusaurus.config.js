@@ -5,8 +5,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
 
   title: 'Beach Rover Research Project',
-  tagline: 'Contains the steps and processes we took to make a rover',
-  url: 'https://uncg-daisy.github.io/BeachRover/',
+  tagline: 'How to build, bug-test, and deploy a surveying rover',
+  url: 'https://uncg-daisy.github.io',
   baseUrl: '/BeachRover/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -19,7 +19,7 @@ module.exports = {
       title: 'Beach Rover',
       logo: {
         alt: 'UNCG',
-        src: 'img/logo.svg',
+        src: 'static/img/logo.svg',
       },
       items: [
         {
@@ -30,7 +30,7 @@ module.exports = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/UNCG-DAISY',
+          href: 'https://github.com/UNCG-DAISY/BeachRover',
           label: 'GitHub',
           position: 'right',
         },
@@ -40,11 +40,15 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Resources ',
           items: [
             {
               label: 'Tutorial',
               to: '/docs/intro',
+            },
+            {
+              label: 'Blog',
+              to: '/blog',
             },
           ],
         },
