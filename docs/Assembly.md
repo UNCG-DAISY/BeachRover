@@ -35,7 +35,7 @@ in order to get the best results.
 After taking the top off your RC Car, you will put the adaptors in and
 attach the Chassis. Make sure to secure it on with the clips.
 
-[![RC Car Assembly Video by Adam Conway](..\static\img\videoPic.png)](https://youtu.be/OaVqWiR2rS0 "RC Car Assembly")*Click Me!*
+[![RC Car Assembly Video by Adam Conway](/img/videoPic.png)](https://youtu.be/OaVqWiR2rS0 "RC Car Assembly")*Click for link to full video!*
 </details>
 
 ## Software setup
@@ -66,7 +66,7 @@ and download their pre-configured Raspbian image. Then use a imager like the
 to write it to the SD Card you will be using with your Pi. After the imager is done, boot up your pi
 with the new image and you will be see the Navio's greeting message:
 
-![Navio's Greeting Message](..\static\img\navioGreetingMessage.png)(https://docs.emlid.com/navio2/ardupilot/installation-and-running)
+![Navio's Greeting Message](/img/navioGreetingMessage.png)(https://docs.emlid.com/navio2/ardupilot/installation-and-running)
 
 Now, you will be following the on-screen steps to set up your Navio2 as a autopilot for your rover.
 **Remember, you can always view this message again by typing:**
