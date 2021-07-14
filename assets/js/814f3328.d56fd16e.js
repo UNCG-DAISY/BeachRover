@@ -1,1 +1,0 @@
-(self.webpackChunkbeach_rover_site=self.webpackChunkbeach_rover_site||[]).push([[535],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"TEST","permalink":"/BeachRover/blog/2021/07/08/Test"}]}')}}]);

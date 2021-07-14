@@ -4,15 +4,22 @@
         <title>Beach Rover Research Project Blog</title>
         <link>https://uncg-daisy.github.io/BeachRover/blog</link>
         <description>Beach Rover Research Project Blog</description>
-        <lastBuildDate>Thu, 08 Jul 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jul 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[TEST]]></title>
-            <link>https://uncg-daisy.github.io/BeachRover/blog/2021/07/08/Test</link>
-            <guid>TEST</guid>
-            <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Rover Blog test]]></description>
+            <title><![CDATA[Camera Image Comparison]]></title>
+            <link>https://uncg-daisy.github.io/BeachRover/blog/2021/07/09/CameraImageComparison</link>
+            <guid>Camera Image Comparison</guid>
+            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Comparison of image quality between the standard Raspberry Pi Camera and the High Quality Raspberry Pi camera.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[HQ Camera Image Comparison]]></title>
+            <link>https://uncg-daisy.github.io/BeachRover/blog/2021/07/09/HQCameraImageComparison</link>
+            <guid>HQ Camera Image Comparison</guid>
+            <pubDate>Fri, 09 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Comparison of image quality between the standard Raspberry Pi Camera and the High Quality Raspberry Pi camera.]]></description>
         </item>
     </channel>
 </rss>
