@@ -1,0 +1,1 @@
+(self.webpackChunkbeach_rover_site=self.webpackChunkbeach_rover_site||[]).push([[837],{9551:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/BeachRover/blog/tags","slug":"robotics","name":"robotics","count":4,"permalink":"/BeachRover/blog/tags/robotics"}')}}]);
