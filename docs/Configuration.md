@@ -62,3 +62,38 @@ To connect your Mission Planner with your Navio2 select COM*X* (the *X* is arbit
 right corner of the screen with the appropriate baud-rate for your telemetry unit.
 Hit connect and you should be greeted with a loading bar that will give way to
 your cars location on the map with data readouts on the left hand side of the screen.
+
+## U-Center
+
+U-Center is a powerful tool you can use to check how many satellites are connected to a given computer.
+This is immensely helpful as we will be able to see the direct connections that our Pi is making with the satellites
+and will be able to diagnose problems with our connectivity better.
+
+After downloading and installing with the wizard, you should see a screen that looks like this:
+![U-Center Home Page](/img/uCenter.png)
+
+
+This is the "home screen" for U-Center and is home to many of the tools you will be using to check the various aspects
+of your connectivity. To connect to your Pi via telemetry, you should pick you baud rate (highlighted blue) for your
+telemetry units and connect them (highlighted red) using this menu at the top left:
+
+
+![U-Center Menu Bar](/img/uCenterMenuBar.png)
+
+
+<details>
+  <summary>U-Center Tools: Click to expand</summary>
+  There are many tools in U-Center, you can turn them off and on using the menu bar in the upper-middle of the screen
+  that looks like this:
+
+  ![U-Center Tools Bar](/img/uCenterTools.png)
+
+  - Packet Console: This tool allows you to see and filter packets sent between devices based on PC Time, Name, and Epoch
+  markers.
+
+  - Binary Console: This tool works like the Packet Console but with Binary Packets.
+
+  - Text Console: 
+
+
+</details>

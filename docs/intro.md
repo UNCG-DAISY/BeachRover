@@ -68,3 +68,10 @@ You could easily use this model for surveying other environmental areas or even 
 
   [Mission Planner](https://ardupilot.org/planner/) is a program created by Michael Oborne that allows you to create mission plans,
   monitor your rover, and run SITL simulations all in one application.
+
+- U-Center
+
+  While not strictly nessasary, this software allows you to see detailed information on what satellites are connected to a given
+  machine, namely our Pi. This can be very helpful when diagnosing issues or checking GPS variance. If you would like this capability,
+  go to [this site](https://www.u-blox.com/en/product/u-center), download U-Center for your operating system, and complete the installation
+  wizard.
