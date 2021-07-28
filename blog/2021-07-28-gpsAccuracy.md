@@ -2,7 +2,7 @@
 title: Trial and Error for Improving GPS Signal
 author: Steven Tagner
 author_url: https://github.com/StevenTagner
-author_image_url: https://uncg-daisy.github.io/BeachRover/img/MMprofilePicture.jpg
+author_image_url: https://avatars.githubusercontent.com/u/78876545?v=4
 tags: [Rover, Trial and Error, GPS Signal]
 ---
 
