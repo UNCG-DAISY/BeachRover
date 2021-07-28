@@ -4,15 +4,22 @@
         <title>Beach Rover Research Project Blog</title>
         <link>https://uncg-daisy.github.io/BeachRover/blog</link>
         <description>Beach Rover Research Project Blog</description>
-        <lastBuildDate>Fri, 16 Jul 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jul 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Temperature Sensor Log]]></title>
-            <link>https://uncg-daisy.github.io/BeachRover/blog/2021/07/16/TempSensorLog</link>
-            <guid>Temperature Sensor Log</guid>
-            <pubDate>Fri, 16 Jul 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Log of temperature sensor and code used for logging test data.]]></description>
+            <title><![CDATA[Trial and Error for Telemetry Connections]]></title>
+            <link>https://uncg-daisy.github.io/BeachRover/blog/2021/07/28/TelemetryConnection</link>
+            <guid>Trial and Error for Telemetry Connections</guid>
+            <pubDate>Wed, 28 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[My trial and error process to follow if your Telemetry Units won't connect.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Trial and Error for Improving GPS Signal]]></title>
+            <link>https://uncg-daisy.github.io/BeachRover/blog/2021/07/28/gpsAccuracy</link>
+            <guid>Trial and Error for Improving GPS Signal</guid>
+            <pubDate>Wed, 28 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[My trial and error process to improve your GPS Signal.]]></description>
         </item>
         <item>
             <title><![CDATA[3D-Printed Base Prototype]]></title>
@@ -20,6 +27,13 @@
             <guid>3D-Printed Base Prototype</guid>
             <pubDate>Fri, 16 Jul 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Rendering of the prototype base for attaching electronics to the RC chassis.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Temperature Sensor Log]]></title>
+            <link>https://uncg-daisy.github.io/BeachRover/blog/2021/07/16/TempSensorLog</link>
+            <guid>Temperature Sensor Log</guid>
+            <pubDate>Fri, 16 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Log of temperature sensor and code used for logging test data.]]></description>
         </item>
         <item>
             <title><![CDATA[Camera Image Comparison]]></title>
