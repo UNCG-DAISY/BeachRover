@@ -14,7 +14,8 @@ You could easily use this model for surveying other environmental areas or even 
 
 - RC Car
 
-    While any RC car can work, in order to use our CAD Chassis you will need a 1:16 sized Car.
+    While any RC car can work, in order to use our CAD Chassis you will need a 1:16 sized Car. Make sure it has a controller
+    as that will be important when setting up the rover later on.
 
 - Raspberry Pi
 
@@ -57,7 +58,7 @@ You could easily use this model for surveying other environmental areas or even 
 
 - Multiplexer
 
-  Since the Navio2 takes up the entire 40 Pin GPIO of the Pi you cannot have any other sensors or devices on your rover.
+  Since the Navio2 takes up the nearly entire 40 Pin GPIO of the Pi you cannot have any other sensors or devices on your rover.
   In order to get around this, we used a multiplexer. This increases the amount of pins your Pi has and allows us
   to have more sensors on our rover besides the ones contained on the Navio2. We use this [one](https://www.amazon.com/Stayhome-Raspberry-MultipleStayhome-Expansion-Multiplex/dp/B07PN8RZR7).
 
